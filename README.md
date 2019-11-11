@@ -4,6 +4,8 @@ In this Demonstration i created some dummy data and added in the sqlite database
 
 ![alt text](https://github.com/rakesh7040/SqliteDBEx/blob/master/sqlitedbex.mp4)
 
+![IMG](https://github.com/rakesh7040/SqliteDBEx/blob/master/sqlitedbex1.png)
+![IMG](https://github.com/rakesh7040/SqliteDBEx/blob/master/sqlitedbex2.png)
 
 ![IMG](https://github.com/rakesh7040/SqliteDBEx/blob/master/db.png)
 
