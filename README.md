@@ -5,5 +5,5 @@ In this Demonstration i created some dummy data and added in the sqlite database
 ![alt text](https://github.com/rakesh7040/SqliteDBEx/blob/master/sqlitedbex.mp4)
 
 
-![alt text](https://github.com/rakesh7040/SqliteDBEx/blob/master/db.png)
+![IMG](https://github.com/rakesh7040/SqliteDBEx/blob/master/db.png)
 
